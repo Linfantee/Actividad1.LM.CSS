@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/*menu*/
+.Titulo{
+color: blue;
+}
+body{
+	background: aqua;
+}
+.size{
+	font-size: 20px;
+}
+.centrar{
+	text-align: center;
+}
+.Titulo_letra{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Texto_fondo{
+	background-color: silver;
+	color: blue;
+	font-weight: 100;
+}
+.derecha{
+	text-align: right;
+}
+span{
+	color:red;
+}
